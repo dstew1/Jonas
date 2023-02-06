@@ -22,7 +22,7 @@ chrome_path = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
 webbrowser.register('chrome', None, webbrowser.BackgroundBrowser(chrome_path))
 
 #Openai API key
-openai.api_key = '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'
+openai.api_key = 'insert your own openai API key here!'
 
 #Stops gpt from running, you can edit this if you have another method
 prediction_made = False
