@@ -43,7 +43,7 @@ def predict_gpt(query = ''):
     return speak(text)
 
 # Wolfram Alpha client
-appId = '6JWQXJ-YHA99AQJWQ'
+appId = 'Insert your API key here!'
 wolframClient = wolframalpha.Client(appId)
 
 #jonas' vocal chords 
